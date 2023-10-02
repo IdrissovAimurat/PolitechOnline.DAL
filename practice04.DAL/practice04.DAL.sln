@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice04.DAL", "practice0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Politech.Online.View", "..\Politech.Online.View\Politech.Online.View.csproj", "{63E7B532-EDC6-4EA7-B009-95694420DF38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Politech.BLL", "..\Politech.BLL\Politech.BLL.csproj", "{2382ACFB-8BA6-45F8-9CDD-B255FE2E5894}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{63E7B532-EDC6-4EA7-B009-95694420DF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63E7B532-EDC6-4EA7-B009-95694420DF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63E7B532-EDC6-4EA7-B009-95694420DF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2382ACFB-8BA6-45F8-9CDD-B255FE2E5894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2382ACFB-8BA6-45F8-9CDD-B255FE2E5894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2382ACFB-8BA6-45F8-9CDD-B255FE2E5894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2382ACFB-8BA6-45F8-9CDD-B255FE2E5894}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
